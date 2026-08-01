@@ -22,4 +22,8 @@ This repository contains my daily solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sumitc0144/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sumitc0144/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 <!---LeetCode Topics End-->

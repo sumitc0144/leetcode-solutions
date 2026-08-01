@@ -10,6 +10,10 @@ class Solution {
             nume=nume/10;
 
         }
+        
+        // int cnt = (int) Math.log10(num) + 1;
         return cnt;
+    
     }
+
 }

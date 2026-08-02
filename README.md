@@ -27,6 +27,7 @@ This repository contains my daily solutions to LeetCode problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/sumitc0144/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sumitc0144/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
